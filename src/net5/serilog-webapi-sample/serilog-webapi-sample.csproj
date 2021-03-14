@@ -8,5 +8,6 @@
     <PackageReference Include="Serilog.AspNetCore" Version="*"/>
     <PackageReference Include="Serilog.Settings.Configuration" Version="*"/>
     <PackageReference Include="Serilog.Enrichers.Environment" Version="*"/>
+    <PackageReference Include="Serilog.Sinks.Sentry.AspNetCore" Version="*"/>
   </ItemGroup>
 </Project>

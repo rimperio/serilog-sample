@@ -9,5 +9,6 @@
     <PackageReference Include="Serilog.Settings.Configuration" Version="*"/>
     <PackageReference Include="Serilog.Enrichers.Environment" Version="*"/>
     <PackageReference Include="Serilog.Sinks.Sentry.AspNetCore" Version="*"/>
+    <PackageReference Include="Serilog.Sinks.GoogleCloudLogging" Version="3.3.1"/>
   </ItemGroup>
 </Project>
